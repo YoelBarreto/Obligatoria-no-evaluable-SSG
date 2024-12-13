@@ -2,7 +2,7 @@
 
 Entrega obligatoria no evaluable:
 
-- Diagrama de entidad relación/uml de la base de datos en PDF.
+- Diagrama de entidad relación/uml de la base de datos en PDF. (**Aún falta**)
 - El código de python realizado hasta el día 11 de diciembre en clase, es decir el ejemplo de API con consulta SQL.
 - Resolver las siguiente cuestiones sin ChatGPT, intentando teorizar con lo visto en clase, se pueden resolver en grupo:
 - ¿Qué es una petición HTTP y qué métodos de peticiones existen?
